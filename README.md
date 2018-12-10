@@ -21,8 +21,8 @@ The following tools must be installed on your computer:
 Once you're ready:
 
 1. **Clone** this repository
-2. Import the project and try to **compile it**.
-3. If the build is completed successfully, you can start.
+2. Import the project and try to **compile it**
+3. If the build is completed successfully, you can start
 
 ## Problem definition
 
