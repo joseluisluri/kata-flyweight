@@ -45,7 +45,7 @@ Follow the steps below:
 1. Make sure you **understand** the problem
 2. Read and **analyze** the source code
 3. **Research** about flyweight pattern
-4. **Implement** your solution in [BrickFactoryImpl.java](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickFactoryImpl.java)
+4. **Implement** your solution in [BrickFactoryImpl](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickFactoryImpl.java)
 5. Run the unit tests to **evaluate** if your solution meets the requirements
 
 ## Solution
