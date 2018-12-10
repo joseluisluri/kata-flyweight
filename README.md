@@ -2,12 +2,12 @@
 
 Learn about software patterns through guided exercises
 
-## Table of Contents
+## Table of contents
 
 - [Setup](#setup)
 - [Problem definition](#problem-definition)
 - [Requirements](#requirements)
-- [What you need to do](#what-you-need-to-do)
+- [How to get started](#how-to-get-started)
 - [Solution](#solution)
 
 ## Setup 
@@ -24,7 +24,7 @@ Once you're ready:
 2. Import the project and try to **compile it**.
 3. If the build is completed successfully, you can start.
 
-## Problem Definition
+## Problem definition
 
 In an imaginary Lego video game, bricks are generated according to their shape and color. To model this scenario, three classes have been defined: [Brick](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/Brick.java), [BrickColor](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickColor.java) and [BrickType](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickType.java).
 
