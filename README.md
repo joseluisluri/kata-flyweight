@@ -2,12 +2,12 @@
 
 Learn about software patterns through guided exercises
 
-## Table of Contents
+## Table of contents
 
 - [Setup](#setup)
 - [Problem definition](#problem-definition)
 - [Requirements](#requirements)
-- [What you need to do](#what-you-need-to-do)
+- [How to get started](#how-to-get-started)
 - [Solution](#solution)
 
 ## Setup 
@@ -38,7 +38,7 @@ Thousands of bricks will be generated during a game, so performance is a point t
 - Rectangular pieces have a 4x2 (width x height) dimension
 - Performance is very important, so keep in mind **not create more objects than necessary**
 
-## What you need to do
+## How to get started
 
 Follow the steps below:
 
