@@ -1,5 +1,9 @@
 # Welcome to Flyweight Kata!
 
+Learn about software patterns through guided exercises
+
+## Table of Contents
+
 - [Setup](#setup)
 - [Problem definition](#problem-definition)
 - [Requirements](#requirements)
