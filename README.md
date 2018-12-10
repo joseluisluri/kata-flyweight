@@ -24,7 +24,7 @@ Once you're ready:
 2. Import the project and try to **compile it**.
 3. If the build is completed successfully, you can start.
 
-## Problem definition
+## Problem Definition
 
 In an imaginary Lego video game, bricks are generated according to their shape and color. To model this scenario, three classes have been defined: [Brick](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/Brick.java), [BrickColor](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickColor.java) and [BrickType](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickType.java).
 
@@ -38,7 +38,7 @@ Thousands of bricks will be generated during a game, so performance is a point t
 - Rectangular pieces have a 4x2 (width x height) dimension
 - Performance is very important, so keep in mind **not create more objects than necessary**
 
-## What you need to do
+## How to get started
 
 Follow the steps below:
 
