@@ -1,3 +1,5 @@
+package brick;
+
 //
 // Don't edit this file
 //
