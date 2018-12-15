@@ -1,5 +1,5 @@
 [![Build Solved Branch Badge](https://travis-ci.org/joseluisluri/kata-flyweight.svg?branch=master)](https://travis-ci.org/joseluisluri/kata-flyweight)
-[![Sonar Quality Gate Badge](https://sonarcloud.io/api/project_badges/measure?project=kata-flyweight%3Aapi&metric=alert_status)](https://sonarcloud.io/dashboard?id=kata-flyweight)
+[![Sonar Quality Gate Badge](https://sonarcloud.io/api/project_badges/measure?project=nogroup%3Akata-flyweight&metric=alert_status)](https://sonarcloud.io/dashboard?id=kata-flyweight)
 
 # Welcome to Flyweight Kata!
 
@@ -29,9 +29,9 @@ Once you're ready:
 
 ## Problem definition
 
-In an imaginary Lego video game, bricks are generated according to their shape and color. To model this scenario, three classes have been defined: [Brick](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/Brick.java), [BrickColor](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickColor.java) and [BrickType](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickType.java).
+In an imaginary Lego video game, bricks are generated according to their shape and color. To model this scenario, three classes have been defined: [Brick](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/Brick.java), [BrickColor](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/BrickColor.java) and [BrickType](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/BrickType.java).
 
-The responsibility for creating instances of bricks has been delegated to a [BrickFactory](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickFactory.java) component. Which depending on the characteristics of the brick returns the appropriate object.
+The responsibility for creating instances of bricks has been delegated to a [BrickFactory](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/BrickFactory.java) component. Which depending on the characteristics of the brick returns the appropriate object.
 
 Thousands of bricks will be generated during a game, so performance is a point to consider.
 
@@ -48,7 +48,7 @@ Follow the steps below:
 1. Make sure you **understand** the problem
 2. Read and **analyze** the source code
 3. **Research** about flyweight pattern
-4. **Implement** your solution in [BrickFactoryImpl](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/BrickFactoryImpl.java)
+4. **Implement** your solution in [BrickFactoryImpl](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/BrickFactoryImpl.java)
 5. Run the unit tests to **evaluate** if your solution meets the requirements
 
 ## Solution

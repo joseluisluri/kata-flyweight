@@ -1,3 +1,5 @@
+package brick;
+
 public class BrickFactoryImpl implements BrickFactory {
 
     // Begin editing here
