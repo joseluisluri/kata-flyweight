@@ -1,4 +1,5 @@
-![Build Solved Branch Badge](https://travis-ci.org/joseluisluri/kata-flyweight.svg?branch=solved) ![Sonar Quality Gate Badge](https://sonarcloud.io/api/project_badges/measure?project=kata-flyweight%3Aapi&metric=alert_status)
+[![Build Solved Branch Badge](https://travis-ci.org/joseluisluri/kata-flyweight.svg?branch=master)](https://travis-ci.org/joseluisluri/kata-flyweight)
+[![Sonar Quality Gate Badge](https://sonarcloud.io/api/project_badges/measure?project=kata-flyweight%3Aapi&metric=alert_status)](https://sonarcloud.io/dashboard?id=kata-flyweight)
 
 # Welcome to Flyweight Kata!
 
